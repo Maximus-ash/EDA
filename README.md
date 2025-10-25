@@ -47,18 +47,6 @@ unzip spotify_dataset.zip
 - **Artist Insights**: Identification of most influential and characteristic artists
 - **Temporal Patterns**: Era-based music preference shifts and popularity trends
 
-## 🛠️ Technologies & Tools
-
-- **Python 3.13+** with modern data science stack
-- **Core Libraries**:
-  - `pandas` - Advanced data manipulation and analysis
-  - `numpy` - Numerical computing and statistics
-  - `seaborn & matplotlib` - Comprehensive data visualization
-  - `scipy` - Statistical analysis and hypothesis testing
-- **Development Environment**:
-  - `Jupyter Notebooks` - Interactive analysis and documentation
-  - `uv` - Fast Python package management
-
 ## 📁 Project Structure
 
 ```
@@ -67,7 +55,6 @@ spotify-data-analysis/
 ├── spotify_dataset.zip                 # � Raw Spotify tracks dataset (compressed)
 ├── Presentation - Data Science Insights.pdf  # � Executive summary presentation
 ├── README.md                           # 📖 Project documentation
-└── .venv/                              # 🐍 Virtual environment
 ```
 
 ## 🚀 Quick Start
