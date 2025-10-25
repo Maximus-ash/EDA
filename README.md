@@ -132,7 +132,8 @@ This analysis serves as a foundation for:
 
 After running the complete analysis, you'll get:
 
+- **Clean Dataset**: Processed data ready for further analysis or modeling
 - **Comprehensive Visualizations**: 20+ charts showing data distributions, correlations, and trends
 - **Statistical Insights**: Descriptive statistics, hypothesis testing results, and correlation analysis
 - **Business Recommendations**: Actionable insights for music industry stakeholders
-- **Clean Dataset**: Processed data ready for further analysis or modeling
+
