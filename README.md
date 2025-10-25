@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org)
 [![License](https://img.shields.io/badge/License-Educational-green.svg)](LICENSE)
-[![Status](https://img.shields.io/badge/Status-Complete-success.svg)](https://github.com/Spidy394/spotify-data-analysis)
+[![Status](https://img.shields.io/badge/Status-Complete-success.svg[)](https://github.com/Maximus-ash/EDA))
 
 A comprehensive exploratory data analysis (EDA) of Spotify tracks dataset to uncover patterns, trends, and insights in music characteristics and popularity. This project provides data-driven insights for music streaming platforms, artists, and industry stakeholders through advanced statistical analysis and visualization techniques.
 
